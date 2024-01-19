@@ -1,10 +1,10 @@
-# Maldua Suite for Zimbra - Organisation
+# Maldua - Organisation
 
 ## Main Repo
 
-- [maldua-suite](https://github.com/maldua-suite/maldua-suite)
+- [Maldua project](https://github.com/maldua/maldua-project)
 
 ## Check also
 
-- [maldua Organisation](https://github.com/maldua)
 - [maldua-mirror Organisation](https://github.com/maldua-mirror)
+- [maldua-suite Organisation](https://github.com/maldua-suite)
